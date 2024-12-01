@@ -1,0 +1,11 @@
+# Ignore node_modules (for example)
+node_modules/
+
+# Ignore compiled files
+*.class
+
+# Ignore sensitive config files
+config.php
+
+# Ignore environment variables
+.env
